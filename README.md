@@ -1,16 +1,11 @@
-# mini_prof
+# Minimal Profile page
 
-A new Flutter project.
+A minimal profile screen design with flutter.
 
-## Getting Started
+Design credit - https://dribbble.com/shots/6016438-Social-Network-App-Profile-Page/attachments
 
-This project is a starting point for a Flutter application.
+How do I code this - https://youtu.be/Hgy0XJdCeKA
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![screenshot_20190220-042931](https://user-images.githubusercontent.com/8137504/53105254-c3cd9300-3556-11e9-81f5-b9a7a81668e4.png)
